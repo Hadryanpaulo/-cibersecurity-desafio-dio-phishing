@@ -14,4 +14,4 @@
   - Selecionei o Google das opcões disponies
 ### Resultados
 
-![Alt text] https://github.com/Hadryanpaulo/-cibersecurity-desafio-dio-phishing/blob/main/Password-Google.png
+![Alt text](https://github.com/Hadryanpaulo/-cibersecurity-desafio-dio-phishing/blob/main/Password-Google.png)
