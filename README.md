@@ -13,4 +13,4 @@
   - Obtendo o endereço da máquina: ifconfig
   - Selecionei o Google das opcões disponies
 ### Resultados
-Captura de tela 2024-02-29 174008.png
+
